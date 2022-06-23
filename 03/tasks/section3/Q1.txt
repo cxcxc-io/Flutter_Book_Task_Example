@@ -1,0 +1,10 @@
+Container 的參數
+
+alignment：設定在 Container 裡的 Child 的位置
+padding：如果有 Child，在 Child 和 Container 之間的空白。如果沒有 Child，在 Decoration 內的空白區域
+color：Container 的背景顏色
+decoration：在 Child 的背景的裝飾
+width：Container 的 寬
+height：Container 的 高
+constraints：設定 Child 的 最大高度、最大寬度、最小高度、最小寬度
+margin：Decoration 和 Child 的外部空白區域
