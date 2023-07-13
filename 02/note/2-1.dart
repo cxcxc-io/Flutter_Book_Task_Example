@@ -11,7 +11,7 @@ void main() {
 
     // 將內容印出來
     print(name);
-    print(nemr + "在" + companyName);
+    print(name + "在" + companyName);
 
     // 將數字的內容印出來
     print(age.toString);
